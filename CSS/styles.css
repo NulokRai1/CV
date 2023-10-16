@@ -1,0 +1,134 @@
+a{
+    padding: 20px;
+    text-decoration: none;
+}
+
+a:hover{
+    color: #EAF6F6;
+}
+
+body {
+    margin: 0;
+    background-color: #232D3F;
+    font-family: 'Merriweather', serif;
+    text-align: center;
+}
+
+h1 {
+    margin-top: 0;
+}
+
+h2{
+    font-size: 2.5rem;
+    color: #66BFBF;
+}
+
+h3, a{
+    color: #FFC6AC;
+}
+
+hr{
+    border: dotted #EAF6F6 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+
+p{
+    color: #FFF3DA;
+    line-height: 2;
+}
+
+.top-container {
+    padding-top: 100px;
+    text-align: center;
+}
+
+.top-cloud{
+    position: relative;
+    left: 300px;
+}
+
+.bottom-cloud{
+    position: absolute;
+}
+
+.profile-image{
+    padding-top: 200px;
+    height: 200px;
+    width: 200px;
+}
+
+.py-run{
+    float: left;
+    height: 200px;
+    width: 200px;
+    margin: 20px;
+}
+
+.flutter{
+    float: right;
+    height: 200px;
+    width: 300px;
+    margin: 20px;
+}
+
+h1{
+        font-size: 5.625rem;
+        color: #66BFBF;
+}
+
+
+.skill-row{
+    margin: 100px auto 100px auto;
+    width: 50%;
+    text-align: left;
+}
+
+.bottom-container {
+    background-color: #001524;
+    padding: 30px;
+}
+
+.BUTTON_JEM {
+    background: #204D81;
+    background-image: -webkit-linear-gradient(top, #204D81, #1E62D0);
+    background-image: -moz-linear-gradient(top, #204D81, #1E62D0);
+    background-image: -ms-linear-gradient(top, #204D81, #1E62D0);
+    background-image: -o-linear-gradient(top, #204D81, #1E62D0);
+    background-image: -webkit-gradient(to bottom, #204D81, #1E62D0);
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    color: #FFFFFF;
+    font-family: Helvetica;
+    font-size: 35px;
+    font-weight: 100;
+    padding: 25px;
+    -webkit-box-shadow: 1px 1px 20px 0 #000000;
+    -moz-box-shadow: 1px 1px 20px 0 #000000;
+    box-shadow: 1px 1px 20px 0 #000000;
+    text-shadow: 1px 0 20px #000000;
+    border: solid #0059A0 1px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+ }
+ 
+ .btn {
+    line-height: 5;
+    margin: 30px;
+    border: solid #337FED 1px;
+    background: #1E62D0;
+    background-image: -webkit-linear-gradient(top, #1E62D0, #3D94F6);
+    background-image: -moz-linear-gradient(top, #1E62D0, #3D94F6);
+    background-image: -ms-linear-gradient(top, #1E62D0, #3D94F6);
+    background-image: -o-linear-gradient(top, #1E62D0, #3D94F6);
+    background-image: -webkit-gradient(to bottom, #1E62D0, #3D94F6);
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    text-decoration: none;
+ }
+ 
